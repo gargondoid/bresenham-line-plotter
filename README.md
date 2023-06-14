@@ -1,7 +1,18 @@
 # bresenham-line-plotter
 Plots lines on a pixelated grid using Bresenham's line algorithm. Written in p5.js!
 
+------
+
 Created by aythoren 6/12/2023
+
+-----
+
+You can run this project at...
+https://openprocessing.org/sketch/1953338
+or
+https://replit.com/@GargonDoid/Bresenham-Line-Plotter?v=1
+
+-----
 
 Thanks to jeffrythompson.org for collision detection (point-rectangle)
 
